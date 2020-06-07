@@ -1,6 +1,8 @@
 # EDA Toronto Safety Road: Project Overview
 
-The City of Toronto is Canada’s most populous city and a focal point of development and growth in Canada. As one of the most populous municipalities in North America, significant efforts are being made across all levels of government to manage the challenges posed by Toronto’s increased urbanization. This project aims to explore which agegroup is more likely to be involved in the accidents.
+*This project aims to explore which agegroup is more likely to be involved in the accidents.*
+
+The City of Toronto is Canada’s most populous city and a focal point of development and growth in Canada. As one of the most populous municipalities in North America, significant efforts are being made across all levels of government to manage the challenges posed by Toronto’s increased urbanization. 
 
 ## Code and Resources Used
 
