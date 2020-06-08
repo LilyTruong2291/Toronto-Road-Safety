@@ -6,9 +6,9 @@ The City of Toronto is Canada’s most populous city and a focal point of develo
 
 ## Code and Resources Used
 
-**Code:** SAS 
-
 **Server:** SAS Studio
+
+**Code:** proc freq, proc sglot, proc sgmap, proc gmap 
 
 **Datasets:**
 
