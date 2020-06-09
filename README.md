@@ -10,7 +10,7 @@ The City of Toronto is Canada’s most populous city and a focal point of develo
 
 **Code for Analysis:** proc freq, proc sort, proc contents, proc sql, proc means, proc univariate, proc hpbin
 
-**Code for Analysis:** proc sglot, proc sgmap, proc gmap 
+**Code for Visualization:** proc sglot, proc sgmap, proc gmap 
 
 **Datasets:**
 
