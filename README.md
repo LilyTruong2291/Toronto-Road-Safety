@@ -34,5 +34,5 @@ Data cleaning is done using Excel.
 
 ## Findings
 
-Pedestrians who are over 55+ are more likely to involve in accidents compared to other age group. The top 5 wards that has the highgest cases of fatal seniors accidents related are 22, 18, 21, 8, 20.
+Pedestrians who are over 55+ are more likely to involve in accidents compared to other age group. The top 5 wards that has the highgest cases of fatal seniors accidents related are 22 (Scarborough-Agincourt), 18 (Willowdale), 21 (Scarborough Centre), 8 (Eglinton-Lawrence), 20 (Scarborough Southwest).
 
