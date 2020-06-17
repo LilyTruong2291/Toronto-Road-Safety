@@ -32,7 +32,8 @@ The map below indicates the **top 10% hazardous areas** for driving according to
 Impediment map in Toronto shows the top 1% locations that have severe impediments.
 ![Impediment in Toronto](https://github.com/LilyTruong2291/Toronto-Road-Safety/blob/master/impediments.PNG)
 
-![Map of Fatalities by Ward](https://github.com/LilyTruong2291/Toronto-Road-Safety/blob/master/map_fatalities_by_ward.PNG)
+The choropleth map illustrates number of fatality from 2008 to 2018 across Toronto's wards. 
+![Map of Fatalities by Ward](https://github.com/LilyTruong2291/Toronto-Road-Safety/blob/master/Map.png)
 
 ![Pedestrian Related Accidents by Age](https://github.com/LilyTruong2291/Toronto-Road-Safety/blob/master/pedestrian_by_age.PNG)
 
@@ -42,5 +43,4 @@ Impediment map in Toronto shows the top 1% locations that have severe impediment
 
 ## Findings
 
-It turns out that pedestrians who are over 55+ are more likely to be involved in accidents compared to other age groups. This is a particularly pernicious finding since members of this age group are also less likely to fully recover from physical trauma. The wards that had the most senior fatalities are 22 (Scarborough-Agincourt), 18 (Willowdale), 21 (Scarborough Centre), 8 (Eglinton-Lawrence), and 20 (Scarborough Southwest).
-
+It turns out that pedestrians who are over 55+ are more likely to be involved in accidents compared to other age groups. This is a particularly pernicious finding since members of this age group are also less likely to fully recover from physical trauma. The wards that had the highest number of fatalites are Scarborogh Centre, Etobicoke North and Scarborough-Agincourt.  The wards that had the most senior fatalities are 22 (Scarborough-Agincourt), 18 (Willowdale), 21 (Scarborough Centre). Scarborough Centre is chosen to be our focus due to its high number of fatalities - 20% of accidents are fatal. Our analysis shows that most of the accident occured at midblock section. Thus, we suggested to expand the speed reduction program into Scarborough Centre especially some notable roads are Eglinton Ave E & Midland Ave, Eglinton Ave E & Brimley Rd, Lawrence Ave E& Brimley Rd. Moreover, warning signs are recommended to put at 8.5 meters before the crossing to alert the upcoming traffic.
