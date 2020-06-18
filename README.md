@@ -3,7 +3,7 @@
 *This project aims to explore which age-group is more likely to be involved in traffic accidents in Toronto.*
 
 The City of Toronto is Canada’s most populous city and a focal point of development and growth. As one of the most populous municipalities in North America, significant efforts are being made across all levels of government to manage the challenges posed by Toronto’s increased urbanization. The 2020 Safety Roads competition organzied by SAS Institute along with Geotab and Toronto Police Service aims to provide insights and recommendations to address some of the challenges posed to the City of Toronto.
-Utimately, this analysis won 3rd place out of 20 participating teams coming from all colleges in GTA.
+Utimately, this analysis won 3rd place out of 20 participating teams coming from different colleges in GTA.
 
 ## Code and Resources Used
 
