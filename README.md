@@ -15,7 +15,7 @@ Utimately, this analysis won 3rd place out of 20 participating teams coming from
 
 **Datasets:**
 
-* Killed or Seriously Injured (KSI).http://data.torontopolice.on.ca/.
+* Killed or Seriously Injured (KSI).http://data.torontopolice.on.ca.
 
 * Hazardous Driving Areas. Geotab. https://data.geotab.com/urban-infrastructure/hazardous-driving.
 
@@ -29,7 +29,7 @@ Data cleaning is done using Excel.
 The map below indicates the **top 10% hazardous areas** for driving according to harsh braking and accident level events.
 ![Hazard Driving Hotspot in Toronto](https://github.com/LilyTruong2291/Toronto-Road-Safety/blob/master/hazard_driving_hotspot.PNG)
 
-Impediment map in Toronto shows the top 1% locations that have severe impediments.
+Impediment map in Toronto shows the **top 1% locations** that have severe impediments.
 ![Impediment in Toronto](https://github.com/LilyTruong2291/Toronto-Road-Safety/blob/master/impediments.PNG)
 
 The choropleth map illustrates number of fatality from 2008 to 2018 across Toronto's wards. 
